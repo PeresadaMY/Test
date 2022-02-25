@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T10:01:35.432Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="Gr7Q_u46T28voDnnCcNC" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-25T10:11:35.324Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="A6gzNbt0uvQCq3BmN-Ym" version="16.6.4" type="github">
   <diagram id="4tfmIN7OKAYoD6fp-gIe" name="Page-1">
-    <mxGraphModel dx="1808" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2012" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,9 +16,21 @@
         <mxCell id="erETFm0UfDJteohnN8pN-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R14gxlKBAzf3O25LpnHq-1" target="erETFm0UfDJteohnN8pN-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="erETFm0UfDJteohnN8pN-41" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R14gxlKBAzf3O25LpnHq-1" target="erETFm0UfDJteohnN8pN-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="erETFm0UfDJteohnN8pN-42" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R14gxlKBAzf3O25LpnHq-1" target="erETFm0UfDJteohnN8pN-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="erETFm0UfDJteohnN8pN-43" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R14gxlKBAzf3O25LpnHq-1" target="erETFm0UfDJteohnN8pN-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="erETFm0UfDJteohnN8pN-44" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R14gxlKBAzf3O25LpnHq-1" target="erETFm0UfDJteohnN8pN-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Виды тестирования&lt;/font&gt;&lt;/font&gt;" definition="null" id="R14gxlKBAzf3O25LpnHq-1">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontStyle=1" parent="1" vertex="1">
-            <mxGeometry x="310" y="220" width="120" height="60" as="geometry" />
+            <mxGeometry x="440" y="240" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="erETFm0UfDJteohnN8pN-19" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="erETFm0UfDJteohnN8pN-9" target="erETFm0UfDJteohnN8pN-17">
@@ -29,7 +41,7 @@
         </mxCell>
         <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;По принципам работы с приложением&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-9">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="1">
-            <mxGeometry x="150" y="40" width="120" height="60" as="geometry" />
+            <mxGeometry x="150" y="30" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="erETFm0UfDJteohnN8pN-24" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="erETFm0UfDJteohnN8pN-10" target="erETFm0UfDJteohnN8pN-22">
@@ -46,49 +58,296 @@
             <mxGeometry x="150" y="175" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="erETFm0UfDJteohnN8pN-29" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="erETFm0UfDJteohnN8pN-11" target="erETFm0UfDJteohnN8pN-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="erETFm0UfDJteohnN8pN-30" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="erETFm0UfDJteohnN8pN-11" target="erETFm0UfDJteohnN8pN-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;В зависимости от исполнителей&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-11">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="1">
             <mxGeometry x="150" y="320" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="erETFm0UfDJteohnN8pN-71" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="erETFm0UfDJteohnN8pN-12" target="erETFm0UfDJteohnN8pN-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="erETFm0UfDJteohnN8pN-73" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="erETFm0UfDJteohnN8pN-12" target="erETFm0UfDJteohnN8pN-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;В зависимости от целей тестирования&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-12">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="1">
-            <mxGeometry x="150" y="410" width="120" height="60" as="geometry" />
+            <mxGeometry x="150" y="470" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Позитивное тестирование&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-17">
+        <mxCell id="erETFm0UfDJteohnN8pN-45" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="erETFm0UfDJteohnN8pN-35" target="erETFm0UfDJteohnN8pN-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="erETFm0UfDJteohnN8pN-46" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="erETFm0UfDJteohnN8pN-35" target="erETFm0UfDJteohnN8pN-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;По запуску кода на исполнение&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-35">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="1">
-            <mxGeometry x="-100" y="40" width="170" height="25" as="geometry" />
+            <mxGeometry x="690" y="30" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Негативное тестирование&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-18">
+        <mxCell id="erETFm0UfDJteohnN8pN-50" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="erETFm0UfDJteohnN8pN-36" target="erETFm0UfDJteohnN8pN-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="erETFm0UfDJteohnN8pN-51" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="erETFm0UfDJteohnN8pN-36" target="erETFm0UfDJteohnN8pN-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="erETFm0UfDJteohnN8pN-52" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="erETFm0UfDJteohnN8pN-36" target="erETFm0UfDJteohnN8pN-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;По доступу к коду и архитектуре&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-36">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="1">
-            <mxGeometry x="-100" y="75" width="170" height="25" as="geometry" />
+            <mxGeometry x="690" y="175" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Тестирование критического пути&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-21">
+        <mxCell id="erETFm0UfDJteohnN8pN-56" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="erETFm0UfDJteohnN8pN-37" target="erETFm0UfDJteohnN8pN-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="erETFm0UfDJteohnN8pN-57" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="erETFm0UfDJteohnN8pN-37" target="erETFm0UfDJteohnN8pN-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="erETFm0UfDJteohnN8pN-58" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="erETFm0UfDJteohnN8pN-37" target="erETFm0UfDJteohnN8pN-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;По уровню детализации приложения&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-37">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="1">
-            <mxGeometry x="-100" y="187" width="170" height="35" as="geometry" />
+            <mxGeometry x="690" y="320" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Дымовое тестирование&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-22">
+        <mxCell id="erETFm0UfDJteohnN8pN-68" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="erETFm0UfDJteohnN8pN-38" target="erETFm0UfDJteohnN8pN-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="erETFm0UfDJteohnN8pN-69" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="erETFm0UfDJteohnN8pN-38" target="erETFm0UfDJteohnN8pN-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;По степени автоматизации&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-38">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="1">
-            <mxGeometry x="-100" y="152" width="170" height="25" as="geometry" />
+            <mxGeometry x="690" y="470" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Расширенное тестирование&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-23">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="1">
-            <mxGeometry x="-100" y="232" width="170" height="33" as="geometry" />
+        <mxCell id="erETFm0UfDJteohnN8pN-59" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="910" y="302.5" width="170" height="95" as="geometry" />
+        </mxCell>
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Модульное тестирование&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-53">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="erETFm0UfDJteohnN8pN-59">
+            <mxGeometry width="170" height="25" as="geometry" />
           </mxCell>
         </object>
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Системное тестирование&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-54">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="erETFm0UfDJteohnN8pN-59">
+            <mxGeometry y="35" width="170" height="25" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Приемочное тестирование&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-55">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="erETFm0UfDJteohnN8pN-59">
+            <mxGeometry y="70" width="170" height="25" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="erETFm0UfDJteohnN8pN-60" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="910" y="157" width="170" height="95" as="geometry" />
+        </mxCell>
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Метод белого ящика&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-47">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="erETFm0UfDJteohnN8pN-60">
+            <mxGeometry width="170" height="25" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Метод серого ящика&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-48">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="erETFm0UfDJteohnN8pN-60">
+            <mxGeometry y="35" width="170" height="25" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Метод черного ящика&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-49">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="erETFm0UfDJteohnN8pN-60">
+            <mxGeometry y="70" width="170" height="25" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="erETFm0UfDJteohnN8pN-61" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="910" y="30" width="170" height="60" as="geometry" />
+        </mxCell>
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Статическое&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-39">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="erETFm0UfDJteohnN8pN-61">
+            <mxGeometry width="170" height="25" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Динамическое&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-40">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="erETFm0UfDJteohnN8pN-61">
+            <mxGeometry y="35" width="170" height="25" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="erETFm0UfDJteohnN8pN-62" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-100" y="320" width="170" height="60" as="geometry" />
+        </mxCell>
         <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Альфа-тестирование&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-27">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="1">
-            <mxGeometry x="-100" y="320" width="170" height="25" as="geometry" />
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="erETFm0UfDJteohnN8pN-62">
+            <mxGeometry width="170" height="25" as="geometry" />
           </mxCell>
         </object>
         <object label="Бета-тестирование" definition="null" id="erETFm0UfDJteohnN8pN-28">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="erETFm0UfDJteohnN8pN-62">
+            <mxGeometry y="35" width="170" height="25" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="erETFm0UfDJteohnN8pN-63" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-100" y="152" width="170" height="113" as="geometry" />
+        </mxCell>
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Тестирование критического пути&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-21">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="erETFm0UfDJteohnN8pN-63">
+            <mxGeometry y="35" width="170" height="35" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Дымовое тестирование&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-22">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="erETFm0UfDJteohnN8pN-63">
+            <mxGeometry width="170" height="25" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Расширенное тестирование&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-23">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="erETFm0UfDJteohnN8pN-63">
+            <mxGeometry y="80" width="170" height="33" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="erETFm0UfDJteohnN8pN-64" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-100" y="30" width="170" height="60" as="geometry" />
+        </mxCell>
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Позитивное тестирование&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-17">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="erETFm0UfDJteohnN8pN-64">
+            <mxGeometry width="170" height="25" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Негативное тестирование&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-18">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="erETFm0UfDJteohnN8pN-64">
+            <mxGeometry y="35" width="170" height="25" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="erETFm0UfDJteohnN8pN-65" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="910" y="465" width="170" height="70" as="geometry" />
+        </mxCell>
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Ручное тестирование&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-66">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="erETFm0UfDJteohnN8pN-65">
+            <mxGeometry width="170" height="25" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Автоматизированное тестирование&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-67">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="erETFm0UfDJteohnN8pN-65">
+            <mxGeometry y="35" width="170" height="35" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="erETFm0UfDJteohnN8pN-92" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="erETFm0UfDJteohnN8pN-70" target="erETFm0UfDJteohnN8pN-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="erETFm0UfDJteohnN8pN-93" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="erETFm0UfDJteohnN8pN-70" target="erETFm0UfDJteohnN8pN-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="erETFm0UfDJteohnN8pN-94" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="erETFm0UfDJteohnN8pN-70" target="erETFm0UfDJteohnN8pN-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="erETFm0UfDJteohnN8pN-95" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="erETFm0UfDJteohnN8pN-70" target="erETFm0UfDJteohnN8pN-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="erETFm0UfDJteohnN8pN-96" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="erETFm0UfDJteohnN8pN-70" target="erETFm0UfDJteohnN8pN-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="erETFm0UfDJteohnN8pN-97" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="erETFm0UfDJteohnN8pN-70" target="erETFm0UfDJteohnN8pN-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="erETFm0UfDJteohnN8pN-98" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="erETFm0UfDJteohnN8pN-70" target="erETFm0UfDJteohnN8pN-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="erETFm0UfDJteohnN8pN-99" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="erETFm0UfDJteohnN8pN-70" target="erETFm0UfDJteohnN8pN-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="erETFm0UfDJteohnN8pN-100" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="erETFm0UfDJteohnN8pN-70" target="erETFm0UfDJteohnN8pN-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="erETFm0UfDJteohnN8pN-101" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="erETFm0UfDJteohnN8pN-70" target="erETFm0UfDJteohnN8pN-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="erETFm0UfDJteohnN8pN-102" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="erETFm0UfDJteohnN8pN-70" target="erETFm0UfDJteohnN8pN-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="erETFm0UfDJteohnN8pN-103" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="erETFm0UfDJteohnN8pN-70" target="erETFm0UfDJteohnN8pN-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="erETFm0UfDJteohnN8pN-104" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="erETFm0UfDJteohnN8pN-70" target="erETFm0UfDJteohnN8pN-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Нефункциональное тестирование&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-70">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="1">
-            <mxGeometry x="-100" y="355" width="170" height="25" as="geometry" />
+            <mxGeometry x="-100" y="770" width="170" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Функциональное тестирование&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-72">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="1">
+            <mxGeometry x="-100" y="440" width="170" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Нефункциональное тестирование&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-74">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="1">
+            <mxGeometry x="-400" y="800" width="170" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Нефункциональное тестирование&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-75">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="1">
+            <mxGeometry x="-400" y="740" width="170" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Нефункциональное тестирование&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-81">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="1">
+            <mxGeometry x="-400" y="680" width="170" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Нефункциональное тестирование&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-82">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="1">
+            <mxGeometry x="-400" y="620" width="170" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Тестирование масштабируемости&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-83">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="1">
+            <mxGeometry x="-400" y="560" width="170" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Нагрузочное тестирование&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-84">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="1">
+            <mxGeometry x="-400" y="500" width="170" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Тестирование производительности&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-85">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="1">
+            <mxGeometry x="-400" y="440" width="170" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Нефункциональное тестирование&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-86">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="1">
+            <mxGeometry x="-400" y="1099" width="170" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Нефункциональное тестирование&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-87">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="1">
+            <mxGeometry x="-400" y="1039" width="170" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Нефункциональное тестирование&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-88">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="1">
+            <mxGeometry x="-400" y="979" width="170" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Нефункциональное тестирование&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-89">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="1">
+            <mxGeometry x="-400" y="919" width="170" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Нефункциональное тестирование&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-90">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="1">
+            <mxGeometry x="-400" y="859" width="170" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Нефункциональное тестирование&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-91">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="1">
+            <mxGeometry x="-400" y="1159" width="170" height="40" as="geometry" />
           </mxCell>
         </object>
       </root>
