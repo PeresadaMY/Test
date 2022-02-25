@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T10:27:07.909Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="J0J20fe3Y8CkOG-u0oWV" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-25T10:31:05.419Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="htWH_WkJTypszmwLJqS7" version="16.6.4" type="github">
   <diagram id="4tfmIN7OKAYoD6fp-gIe" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -172,77 +172,77 @@
         <mxCell id="erETFm0UfDJteohnN8pN-104" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="erETFm0UfDJteohnN8pN-70" target="erETFm0UfDJteohnN8pN-85" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Нефункциональное тестирование&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-70">
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Нефункциональное тестирование&lt;/font&gt;&lt;/font&gt;" definition="тестирование атрибутов компонента или системы, не относящихся к функциональности." id="erETFm0UfDJteohnN8pN-70">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" parent="1" vertex="1">
             <mxGeometry x="-100" y="770" width="170" height="40" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Функциональное тестирование&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-72">
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Функциональное тестирование&lt;/font&gt;&lt;/font&gt;" definition="направлено на проверку корректности работы функциональности приложения." id="erETFm0UfDJteohnN8pN-72">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" parent="1" vertex="1">
             <mxGeometry x="-100" y="440" width="170" height="40" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Тестирование интерфейса&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-74">
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Тестирование интерфейса&lt;/font&gt;&lt;/font&gt;" definition="проверка требований к пользовательскому интерфейсу." id="erETFm0UfDJteohnN8pN-74">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" parent="1" vertex="1">
             <mxGeometry x="-400" y="800" width="170" height="40" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Инсталляционное тестирование&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-75">
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Инсталляционное тестирование&lt;/font&gt;&lt;/font&gt;" definition="тестирование, направленное на проверку успешной установки и настройки, обновления или удаления приложения." id="erETFm0UfDJteohnN8pN-75">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" parent="1" vertex="1">
             <mxGeometry x="-400" y="740" width="170" height="40" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Стрессовое тестирование&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-81">
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Стрессовое тестирование&lt;/font&gt;&lt;/font&gt;" definition="тип тестирования направленный для проверки, как система обращается с нарастающей нагрузкой (количеством одновременных пользователей)." id="erETFm0UfDJteohnN8pN-81">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" parent="1" vertex="1">
             <mxGeometry x="-400" y="680" width="170" height="40" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Объемное тестирование&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-82">
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Объемное тестирование&lt;/font&gt;&lt;/font&gt;" definition="это тип тестирования программного обеспечения, которое проводится для тестирования программного приложения с определенным объемом данных." id="erETFm0UfDJteohnN8pN-82">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" parent="1" vertex="1">
             <mxGeometry x="-400" y="620" width="170" height="40" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Тестирование масштабируемости&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-83">
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Тестирование масштабируемости&lt;/font&gt;&lt;/font&gt;" definition="тестирование, которое измеряет производительность сети или системы, когда количество пользовательских запросов увеличивается или уменьшается." id="erETFm0UfDJteohnN8pN-83">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" parent="1" vertex="1">
             <mxGeometry x="-400" y="560" width="170" height="40" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Нагрузочное тестирование&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-84">
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Нагрузочное тестирование&lt;/font&gt;&lt;/font&gt;" definition="определение или сбор показателей производительности и времени отклика программно-технической системы или устройства в ответ на внешний запрос с целью установления соответствия требованиям, предъявляемым к данной системе (устройству)." id="erETFm0UfDJteohnN8pN-84">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" parent="1" vertex="1">
             <mxGeometry x="-400" y="500" width="170" height="40" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Тестирование производительности&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-85">
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Тестирование производительности&lt;/font&gt;&lt;/font&gt;" definition="определение стабильности и потребления ресурсов в условиях различных сценариев использования и нагрузок." id="erETFm0UfDJteohnN8pN-85">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" parent="1" vertex="1">
             <mxGeometry x="-400" y="440" width="170" height="40" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Регрессионное тестирование&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-86">
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Регрессионное тестирование&lt;/font&gt;&lt;/font&gt;" definition="тестирование уже проверенной ранее функциональности после внесения изменений в код приложения, для уверенности в том, что эти изменения не внесли ошибки в областях, которые не подверглись изменениям." id="erETFm0UfDJteohnN8pN-86">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" parent="1" vertex="1">
             <mxGeometry x="-400" y="1099" width="170" height="40" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Тестирование надежности&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-87">
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Тестирование надежности&lt;/font&gt;&lt;/font&gt;" definition="один из видов нефункционального тестирования ПО, целью которого является проверка работоспособности приложения при длительном тестировании с ожидаемым уровнем нагрузки." id="erETFm0UfDJteohnN8pN-87">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" parent="1" vertex="1">
             <mxGeometry x="-400" y="1039" width="170" height="40" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Тестирование безопасности&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-88">
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Тестирование безопасности&lt;/font&gt;&lt;/font&gt;" definition="это стратегия тестирования, используемая для проверки безопасности системы, а также для анализа рисков, связанных с обеспечением целостного подхода к защите приложения, атак хакеров, вирусов, несанкционированного доступа к конфиденциальным данным." id="erETFm0UfDJteohnN8pN-88">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" parent="1" vertex="1">
             <mxGeometry x="-400" y="979" width="170" height="40" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Тестирование локализации&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-89">
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Тестирование локализации&lt;/font&gt;&lt;/font&gt;" definition="проверка адаптации программного обеспечения для определенной аудитории в соответствии с ее культурными особенностями." id="erETFm0UfDJteohnN8pN-89">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" parent="1" vertex="1">
             <mxGeometry x="-400" y="919" width="170" height="40" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Тестирование удобства использования&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-90">
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Тестирование удобства использования&lt;/font&gt;&lt;/font&gt;" definition="это метод тестирования, направленный на установление степени удобства использования, понятности и привлекательности для пользователей разрабатываемого продукта в контексте заданных условий." id="erETFm0UfDJteohnN8pN-90">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" parent="1" vertex="1">
             <mxGeometry x="-400" y="859" width="170" height="40" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Повторное тестирование&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-91">
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Повторное тестирование&lt;/font&gt;&lt;/font&gt;" definition="тестирование, во время которого исполняются тестовые сценарии, выявившие ошибки во время последнего запуска, для подтверждения успешности исправления этих ошибок." id="erETFm0UfDJteohnN8pN-91">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" parent="1" vertex="1">
             <mxGeometry x="-400" y="1159" width="170" height="40" as="geometry" />
           </mxCell>
@@ -297,37 +297,37 @@
             <mxGeometry x="910" y="500" width="170" height="35" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Альфа-тестирование&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-27">
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Альфа-тестирование&lt;/font&gt;&lt;/font&gt;" definition="является ранней версией программного продукта. Может выполняться внутри организации-разработчика с возможным частичным привлечением конечных пользователей." id="erETFm0UfDJteohnN8pN-27">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" parent="1" vertex="1">
             <mxGeometry x="-100" y="320" width="170" height="25" as="geometry" />
           </mxCell>
         </object>
-        <object label="Бета-тестирование" definition="null" id="erETFm0UfDJteohnN8pN-28">
+        <object label="Бета-тестирование" definition="программное обеспечение, выпускаемое для ограниченного количества пользователей. Главная цель — получить отзывы клиентов о продукте и внести соответствующие изменения." id="erETFm0UfDJteohnN8pN-28">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" parent="1" vertex="1">
             <mxGeometry x="-100" y="355" width="170" height="25" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Тестирование критического пути&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-21">
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Тестирование критического пути&lt;/font&gt;&lt;/font&gt;" definition="направлено для проверки функциональности, используемой обычными пользователями во время их повседневной деятельности." id="erETFm0UfDJteohnN8pN-21">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" parent="1" vertex="1">
             <mxGeometry x="-100" y="187" width="170" height="35" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Дымовое тестирование&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-22">
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Дымовое тестирование&lt;/font&gt;&lt;/font&gt;" definition="тестирование, выполняемое на новой сборке, с целью подтверждения того, что программное обеспечение стартует и выполняет основные для бизнеса функции." id="erETFm0UfDJteohnN8pN-22">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" parent="1" vertex="1">
             <mxGeometry x="-100" y="152" width="170" height="25" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Расширенное тестирование&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-23">
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Расширенное тестирование&lt;/font&gt;&lt;/font&gt;" definition="направлено на исследование всей заявленной в требованиях функциональности." id="erETFm0UfDJteohnN8pN-23">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" parent="1" vertex="1">
             <mxGeometry x="-100" y="232" width="170" height="33" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Позитивное тестирование&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-17">
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Позитивное тестирование&lt;/font&gt;&lt;/font&gt;" definition="тестирование, при котором используются только корректные данные." id="erETFm0UfDJteohnN8pN-17">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" parent="1" vertex="1">
             <mxGeometry x="-100" y="30" width="170" height="25" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Негативное тестирование&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-18">
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Негативное тестирование&lt;/font&gt;&lt;/font&gt;" definition="тестирование приложения, при котором используются некорректные данные и выполняются некорректные операции." id="erETFm0UfDJteohnN8pN-18">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" parent="1" vertex="1">
             <mxGeometry x="-100" y="65" width="170" height="25" as="geometry" />
           </mxCell>
