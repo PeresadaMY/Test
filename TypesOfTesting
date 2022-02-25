@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T10:22:55.698Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="cd2u54naWpfnZzuVBcAX" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-25T10:27:07.909Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="J0J20fe3Y8CkOG-u0oWV" version="16.6.4" type="github">
   <diagram id="4tfmIN7OKAYoD6fp-gIe" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -105,13 +105,16 @@
             <mxGeometry x="690" y="175" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="erETFm0UfDJteohnN8pN-56" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="erETFm0UfDJteohnN8pN-37" target="erETFm0UfDJteohnN8pN-53" edge="1">
+        <mxCell id="qi3fx8yhs5mNGt3LiA5w-5" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="erETFm0UfDJteohnN8pN-37" target="erETFm0UfDJteohnN8pN-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="erETFm0UfDJteohnN8pN-57" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="erETFm0UfDJteohnN8pN-37" target="erETFm0UfDJteohnN8pN-54" edge="1">
+        <mxCell id="qi3fx8yhs5mNGt3LiA5w-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="erETFm0UfDJteohnN8pN-37" target="qi3fx8yhs5mNGt3LiA5w-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="erETFm0UfDJteohnN8pN-58" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="erETFm0UfDJteohnN8pN-37" target="erETFm0UfDJteohnN8pN-55" edge="1">
+        <mxCell id="qi3fx8yhs5mNGt3LiA5w-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="erETFm0UfDJteohnN8pN-37" target="erETFm0UfDJteohnN8pN-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qi3fx8yhs5mNGt3LiA5w-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="erETFm0UfDJteohnN8pN-37" target="erETFm0UfDJteohnN8pN-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;По уровню детализации приложения&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-37">
@@ -254,34 +257,34 @@
             <mxGeometry x="910" y="65" width="170" height="25" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Метод белого ящика&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-47">
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Метод белого ящика&lt;/font&gt;&lt;/font&gt;" definition="метод тестирования ПО, который предполагает полный доступ к коду проекта." id="erETFm0UfDJteohnN8pN-47">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" parent="1" vertex="1">
             <mxGeometry x="910" y="157" width="170" height="25" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Метод серого ящика&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-48">
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Метод серого ящика&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" definition="метод тестирования ПО, который предполагает частичный доступ к коду проекта (комбинация White Box и Black Box методов)." id="erETFm0UfDJteohnN8pN-48">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" parent="1" vertex="1">
             <mxGeometry x="910" y="192" width="170" height="25" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Метод черного ящика&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-49">
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Метод черного ящика&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" definition="метод тестирования ПО, который не предполагает доступа (полного или частичного) к системе. Основывается на работе исключительно с внешним интерфейсом тестируемой системы." id="erETFm0UfDJteohnN8pN-49">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" parent="1" vertex="1">
             <mxGeometry x="910" y="227" width="170" height="25" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Модульное тестирование&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-53">
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Модульное тестирование&lt;/font&gt;&lt;/font&gt;" definition="проводится для тестирования какого-либо одного логически выделенного и изолированного элемента (модуля) системы в коде. Проводится самими разработчиками, так как предполагает полный доступ к коду." id="erETFm0UfDJteohnN8pN-53">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" parent="1" vertex="1">
-            <mxGeometry x="910" y="302.5" width="170" height="25" as="geometry" />
+            <mxGeometry x="910" y="281.25" width="170" height="25" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Системное тестирование&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-54">
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Системное тестирование&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" definition="процесс тестирования системы, на котором проводится не только функциональное тестирование, но и оценка характеристик качества системы — ее устойчивости, надежности, безопасности и производительности." id="erETFm0UfDJteohnN8pN-54">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" parent="1" vertex="1">
-            <mxGeometry x="910" y="337.5" width="170" height="25" as="geometry" />
+            <mxGeometry x="910" y="358.75" width="170" height="25" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Приемочное тестирование&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-55">
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Приемочное тестирование&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" definition="проверяет соответствие системы потребностям, требованиям и бизнес-процессам пользователя." id="erETFm0UfDJteohnN8pN-55">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" parent="1" vertex="1">
-            <mxGeometry x="910" y="372.5" width="170" height="25" as="geometry" />
+            <mxGeometry x="910" y="393.75" width="170" height="25" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Ручное тестирование&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-66">
@@ -327,6 +330,11 @@
         <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Негативное тестирование&lt;/font&gt;&lt;/font&gt;" definition="null" id="erETFm0UfDJteohnN8pN-18">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" parent="1" vertex="1">
             <mxGeometry x="-100" y="65" width="170" height="25" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Интеграционное тестирование&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" definition="тестирование, направленное на проверку корректности взаимодействия нескольких модулей, объединенных в единое целое." id="qi3fx8yhs5mNGt3LiA5w-4">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="1">
+            <mxGeometry x="910" y="316.25" width="170" height="32.5" as="geometry" />
           </mxCell>
         </object>
       </root>
