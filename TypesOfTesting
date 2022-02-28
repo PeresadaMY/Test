@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T07:52:31.715Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="bG5Cpwka9ip8fkKSkMoK" version="16.6.4" type="github">
-  <diagram id="4tfmIN7OKAYoD6fp-gIe" name="Page-1">
-    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2022-02-28T10:53:24.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="SYxP3EcQS9eG8NVPdi_z" version="16.6.4" type="github">
+  <diagram id="4tfmIN7OKAYoD6fp-gIe" name="Testing">
+    <mxGraphModel dx="2500" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -312,10 +312,10 @@
             <mxGeometry x="-100" y="187" width="170" height="35" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="wO5Ogwk4j_XC7ZpgI7dc-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="erETFm0UfDJteohnN8pN-22" target="wO5Ogwk4j_XC7ZpgI7dc-3">
+        <mxCell id="wO5Ogwk4j_XC7ZpgI7dc-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="erETFm0UfDJteohnN8pN-22" target="wO5Ogwk4j_XC7ZpgI7dc-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wO5Ogwk4j_XC7ZpgI7dc-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=default;" edge="1" parent="1" source="erETFm0UfDJteohnN8pN-22" target="wO5Ogwk4j_XC7ZpgI7dc-5">
+        <mxCell id="wO5Ogwk4j_XC7ZpgI7dc-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=default;" parent="1" source="erETFm0UfDJteohnN8pN-22" target="wO5Ogwk4j_XC7ZpgI7dc-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Дымовое тестирование&lt;/font&gt;&lt;/font&gt;" definition="тестирование, выполняемое на новой сборке, с целью подтверждения того, что программное обеспечение стартует и выполняет основные для бизнеса функции." id="erETFm0UfDJteohnN8pN-22">
@@ -344,12 +344,12 @@
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Vanessa ADD&lt;/font&gt;&lt;/font&gt;" definition="Vanessa Automation Driven Development - набор инструментов для проверки качества решений на платформе 1С:Предприятие." link="https://github.com/vanessa-opensource/add" linkTarget="_blank" id="wO5Ogwk4j_XC7ZpgI7dc-3">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontStyle=0;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontStyle=0;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
             <mxGeometry x="-310" y="132" width="170" height="25" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;xUnitFor1C&lt;/font&gt;&lt;/font&gt;" definition="Набор инструментов для выполнения тестирования (модульного/юнит, приемочного, сценарного для 1С 8.3, интеграционного) в 1С:Предприятие 8." link="https://github.com/xDrivenDevelopment/xUnitFor1C" linkTarget="_blank" id="wO5Ogwk4j_XC7ZpgI7dc-5">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontStyle=0;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontStyle=0;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
             <mxGeometry x="-310" y="167" width="170" height="25" as="geometry" />
           </mxCell>
         </object>
